@@ -1,2 +1,2 @@
-#Jumia Platfrom#
-**Counterfeit for tutorial**
+# Jumia Platfrom
+*Counterfeit for tutorial*
